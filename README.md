@@ -1,5 +1,6 @@
 # ruby-rails-sample
 
+![Codeship Status](https://www.codeship.io/projects/efe70840-a7a2-0132-d394-5e1489d0a355/status)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
